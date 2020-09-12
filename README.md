@@ -3,11 +3,11 @@ Assignment-Implement a function to reverse a string (a list of characters), in p
 
 I am using java version "1.8.0_251".
 
-To run a program type foloowing commands in cmd
+To run the program type following commands in Commend Prompt
 
-javac filereverse.java 
+javac StringReverse.java
 
-java filename
+java StringReverse
 
 
 We are taking input as String and convert it to Character Array Because
